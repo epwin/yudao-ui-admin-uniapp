@@ -1,7 +1,7 @@
 // 应用全局配置
 module.exports = {
   // baseUrl: 'http://api-dashboard.yudao.iocoder.cn',
-  baseUrl: 'http://localhost:48080',
+  baseUrl: 'http://120.46.11.55:48080',
   baseApi: '/admin-api',
   // 应用信息
   appInfo: {
@@ -10,7 +10,7 @@ module.exports = {
     // 应用版本
     version: "1.0.0",
     // 应用logo
-    logo: "/static/logo.png",
+    logo: "/static/logo-cirpoint.png",
     // 官方网站
     site_url: "https://iocoder.cn",
     // 政策协议

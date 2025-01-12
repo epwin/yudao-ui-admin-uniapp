@@ -23,7 +23,9 @@
       checkLogin() {
         if (!getAccessToken()) {
           this.$tab.reLaunch('/pages/login')
-        }
+        }else{
+					this.$tab.reLaunch('/pages/index')
+				}
       }
     }
   }

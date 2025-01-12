@@ -7,7 +7,7 @@
   }, {
     "path": "pages/index",
     "style": {
-      "navigationBarTitleText": "芋道移动端框架",
+      "navigationBarTitleText": "PLM移动端框架",
       "navigationStyle": "custom"
     }
   }, {
@@ -89,6 +89,12 @@
       }
     ]
   },
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"fui-(.*)": "@/components/firstui/fui-$1/fui-$1.vue"
+		}
+	},
   "globalStyle": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "RuoYi",

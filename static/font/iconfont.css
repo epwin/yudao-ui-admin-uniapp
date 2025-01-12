@@ -1,90 +1,23 @@
 @font-face {
-  font-family: "iconfont";
-  src: url('/static/font/iconfont.ttf') format('truetype');
+  font-family: "iconfont"; /* Project id 4809300 */
+  src: 
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANwAAsAAAAAB3gAAAMkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACCfgqCYIJAATYCJAMICwYABCAFhGcHMxuNBsgekiSBSgh7wJEvM8A2Iqjf2+p5/5FS1OAoj0KhyT6pXQnZWZQP+aK8Or3z7teGmO/wdJ4Q0/ptO/HdzhL/I5rx5JJEk0drPBKUxONv975LE44yLlpCiRRJIm2df5rm83/v+C/CCwJ/tua2TvjA8oA+YHtY9oXiTl6CnILsHoxFPiNQb1UF/62Gtj4QfcJSK0gXyBwPku44MehYECq45IbuUCtUo3uzeIAq0iV6xX3w/vhrPUJJqgrmQ9t79QK4+yE/hQHiKVE8KY03RM1PqEKBxZV5Yqc5tC0gKi0KUF8VCjRJT8+CH4X/hx8FnrjuPzxCENXMzkYwSzmSM5Ick1OTKPmMf5lARi0uAFcjvBC1HY2RdSNtUWHHc9OJfRVz69sLSf2zG1spg/MSO7Mn7YaHX3lxJ4IRD85nLo/8pNtuJm5P70p7Mzum6KueIZfKwFHReBX9gsopIuY6AA1RrlNMv73QUG7LjRIE/p9DAbdaOd9HMyZeTd9ItzPXb2Ypawljz4QIas+qq3F8UL/Pt5QJZ6Jy+3Oj7rxtla/py+fa8+X0Yk+XZ6ioKFj1t2oxbyU9z12QvpLHVDEZdRmiE/iu+i4Z5G61gxrNoLYqMTS0sldplVmDmrPb3IyTupOMeqZ0k5tep7UWgyoAlbvivqj+M9/xr/t70TEb/2sbMvjcoTBIVO4ywCJA7TmHgv9g3gWJWUuTcpUk1JILofdkqLeyVIAZa/fV19Zxo7VQq+N2IzUGEhRqjVOZm0eVBuuoVmsT9RbUH27QwS5A5DpMGyEIrXaQNHtEodUDlblPVOn2i2qt/lBvJ5rOazAdfC1BLEUC5HzQwNus2LbSQG0P0rnMLCnLDyDiNFBZqJIr89VGZEVkiA1Ot05NKYaY2CywgXsMmc02aCc2I+KpXE+pvUShwFWayHmbBdQiEBaFCCCOD2TAs7HCHplmP68HouNixiIgNVAinAyUekhFTglQjSYrNHIllzi56ahRFAZhhFQsoAYhgJjVkg1kr55lhPAoOX2Pgl0JhUXCqEk+v8XyaCegnmlPYW0p1J3aBESQ1eMCAA==') format('woff2'),
+       url('/static/font/iconfont.ttf?t=1736669856050') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 16px;
-  display: inline-block;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-user:before {
-  content: "\e7ae";
+.dd-icon-woderenwu:before {
+  content: "\e625";
 }
 
-.icon-password:before {
-  content: "\e8b2";
-}
-
-.icon-code:before {
-  content: "\e699";
-}
-
-.icon-setting:before {
-  content: "\e6cc";
-}
-
-.icon-share:before {
-  content: "\e739";
-}
-
-.icon-edit:before {
-  content: "\e60c";
-}
-
-.icon-version:before {
-  content: "\e63f";
-}
-
-.icon-service:before {
-  content: "\e6ff";
-}
-
-.icon-friendfill:before {
-  content: "\e726";
-}
-
-.icon-community:before {
-  content: "\e741";
-}
-
-.icon-people:before {
-  content: "\e736";
-}
-
-.icon-dianzan:before {
-  content: "\ec7f";
-}
-
-.icon-right:before {
-  content: "\e7eb";
-}
-
-.icon-logout:before {
-  content: "\e61d";
-}
-
-.icon-help:before {
-  content: "\e616";
-}
-
-.icon-github:before {
-  content: "\e628";
-}
-
-.icon-aixin:before {
-  content: "\e601";
-}
-
-.icon-clean:before {
-  content: "\e607";
-}
-
-.icon-refresh:before {
-  content: "\e604";
+.dd-icon-woderenwu-copy:before {
+  content: "\e626";
 }
 
